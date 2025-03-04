@@ -1,4 +1,4 @@
-import { ClientWithServerImport } from "../components/ClientWithServerImport";
+import { ClientWithServerImport } from "../../components/ClientWithServerImport";
 
 const ClientServerImportPage = () => (
   <div className="wrapper">

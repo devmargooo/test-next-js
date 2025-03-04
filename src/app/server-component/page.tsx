@@ -1,8 +1,8 @@
-import { CurrentDate } from "../components/CurrentDate";
+import { CurrentDate } from '../../components/CurrentDate';
 
 const ServerComponentPage = () => (
-  <div className="wrapper">
-    <h1>Server component date</h1>
+  <div className='wrapper'>
+    <h1>Page with server component</h1>
     <CurrentDate />
   </div>
 );

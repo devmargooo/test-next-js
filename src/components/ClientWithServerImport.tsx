@@ -9,7 +9,7 @@ export const ClientWithServerImport = () => {
   }, []);
   return (
     <>
-      <p>Current date (client): {date}</p>
+      <p>Client with server import. Timestamp: {date}</p>
       <CurrentDate />
     </>
   );

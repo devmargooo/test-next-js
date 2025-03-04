@@ -1,4 +1,4 @@
-import { WithServerAction } from "../components/WithServerAction";
+import { WithServerAction } from "../../components/WithServerAction";
 
 const ServerActionPage = () => (
   <div className="wrapper">

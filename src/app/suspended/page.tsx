@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import { SuspendedDate } from "../components/SuspendedDate";
+import { SuspendedDate } from "../../components/SuspendedDate";
 
 const SuspendedPage = () => (
   <div className="wrapper">

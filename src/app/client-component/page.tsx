@@ -1,8 +1,8 @@
-import { ClientCurrentDate } from "../components/ClientCurrentDate";
+import { ClientCurrentDate } from "../../components/ClientCurrentDate";
 
 const ClientComponentPage = () => (
   <div className="wrapper">
-    <h1>Client component date</h1>
+    <h1>Page with client component</h1>
     <ClientCurrentDate />
   </div>
 );
